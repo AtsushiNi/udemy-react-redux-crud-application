@@ -18,6 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React
+            <h1 className="App-title">Hello,world!</h1>
           </a>
         </header>
       </div>
